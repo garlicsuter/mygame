@@ -8,6 +8,7 @@ public class spin : MonoBehaviour
     void Start()
     {
         //you need something here.
+        //and here
     }
 
     // Update is called once per frame
